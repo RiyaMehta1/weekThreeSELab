@@ -1,8 +1,6 @@
 This is my project
 
-conflict line
+conflict line changed by SECOND collaborator
 
 End of file
-
-
 
